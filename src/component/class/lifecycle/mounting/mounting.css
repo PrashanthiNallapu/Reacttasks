@@ -1,0 +1,25 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    background-color: peru;
+}
+#card{
+    width: 30rem;
+    height: 44rem;
+    background-color: aquamarine;
+}
+#image{
+    width: 250px;
+    height: 170px;
+    margin-left: 120px;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
+#button{
+    width: 100px;
+    border-radius: 20px;
+}
